@@ -1,0 +1,8 @@
+Tengo una idea.
+/I('ve got| have got|'ve| have) an idea\./
+Ella debe haberse marchado sin decirle nada a Peter.
+/She (must have|must've) left without (saying anything to Peter|telling Peter anything)\./
+A pesar del calor, manteníamos las ventanas abiertas todo el tiempo.
+/(Despite|In spite of) the heat, we kept the windows open (the whole|all the) time\./
+Aunque estaba cansado, (yo) fui a la fiesta.
+/(Although I was|Even though I was|Despite being) tired, I went to the party\./
