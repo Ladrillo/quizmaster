@@ -1,0 +1,3 @@
+Todo depende del espesor del muro. THICK
+
+

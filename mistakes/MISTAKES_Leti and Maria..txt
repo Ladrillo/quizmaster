@@ -1,0 +1,9 @@
+Esto es improbable que ocurra. <- Usar 'chance' y un futuro
+There is no chance of this happening.
+
+Esto es improbable que ocurra. <- Usar 'chance' y un futuro
+There is not chance this will happen.
+
+Esto es improbable que ocurra. <- Usar 'chance' y un futuro
+
+

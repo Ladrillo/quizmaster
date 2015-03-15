@@ -1,0 +1,3 @@
+'I am studying very hard' -> Mark told Gabriel that...
+Mark tols Gabriel that he was studying very hard.
+

@@ -53,20 +53,27 @@ class Test
     end
   end
 
+  def fix(string)
+    string.gsub!(/\\/,"?")
+  end
+
+  def insert_variation(string)
+    self.all_variations << string unless self.all_variations.include?(string)
+  end
+
   def gen_fix_save_variation
     generated = @pattern.gen
-    question_mark_count = self.question.scan(/\?/).count
-    if question_mark_count > 0
-      valid = generated.gsub(/\\/,"?") if generated.scan(/\\/).count == question_mark_count
-      self.all_variations << valid unless self.all_variations.include?(valid) || valid.nil?
-    else
-      self.all_variations << generated unless self.all_variations.include?(generated)
+    a = @question.scan(/\?/).count
+    b = generated.scan(/\\/).count
+    if a == b
+      insert_variation(fix(generated))
     end
   end
 
   def loop_through_gen
     (1..500).each {gen_fix_save_variation}
-    #print "Correct variations: ", self.all_variations
+    self.all_variations.compact!
+    print "Correct variations: ", self.all_variations
   end
 
   def spelling_checker

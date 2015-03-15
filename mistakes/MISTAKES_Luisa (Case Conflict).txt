@@ -1,0 +1,3 @@
+'I am an English teacher' -> Gabriel told us that...
+Gabriel told us he was an English teacher.
+

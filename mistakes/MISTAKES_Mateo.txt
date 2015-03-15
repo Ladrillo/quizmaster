@@ -1,0 +1,69 @@
+Se supone que él está al mando. CHARGE
+He is suposed to be in charge.
+
+Prefiero esperar. RATHER
+I rather prefer to wait.
+
+Todo depende del espesor del muro. THICK
+It all depends on how thick is the wall.
+
+Todo depende del espesor del muro. THICKNESS
+It all depends of the thickness of the wall.
+
+Lamento no haberte escuchado. HAVING
+I regret not having heard.
+
+Lamento no haberte escuchado. HAVING
+I regret not having listened.
+
+Lamento no haberte escuchado. HAVING
+I regret not having listened you.
+
+A pesar de los daños, el edificio no fue evacuado. DAMAGE
+Despite of the demage, the building was not evacuat.
+
+A pesar de los daños, el edificio no fue evacuado. DAMAGE
+Despite the damage, the building was not evacuee.
+
+La tormenta les impidió alcanzar el refugio. PREVENTED
+The storm prevented them to reach the refuge.
+
+La tormenta les impidió alcanzar el refugio. PREVENTED
+The storm prevented them reaching the refuge.
+
+La tormenta les impidió alcanzar el refugio. PREVENTED
+The storm prevented them from reaching the refuge.
+
+Samsung está presumiendo del nuevo modelo Galaxy. OFF
+Samsung is presuming off the new Galaxy model.
+
+La búsqueda fue suspendida por el mal tiempo. OFF
+The search was called off due the bad weather.
+
+La búsqueda fue suspendida por el mal tiempo. OFF
+The search was called off due bad weather.
+
+No merece la pena esperar más. POINT
+There is no point in waiting more.
+
+Eso son viejas noticias. NEWS
+That are old news.
+
+Él pulsó el botón equivocado por error. WRONG
+He pushed the wrong botton by mistake.
+
+Quizá él cambió de opinión. MIGHT
+He might change his opinion.
+
+Quizá él cambió de opinión. MIGHT
+He might changed his opinion.
+
+Quizá él cambió de opinión. MIGHT
+He might not change his opinion.
+
+La aseguradora nos está timando. RIPPING
+The insurance company is ripping us.
+
+Te advertí que no contaras esa historia. AGAINST
+I warned you not to against that history.
+
